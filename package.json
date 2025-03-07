@@ -1,0 +1,25 @@
+{
+  "name": "api_typeorm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/partfix/api_typeorm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/partfix/api_typeorm/issues"
+  },
+  "homepage": "https://github.com/partfix/api_typeorm#readme",
+  "description": "",
+  "dependencies": {
+    "mysql2": "^3.13.0",
+    "reflect-metadata": "^0.2.2",
+    "typeorm": "^0.3.21"
+  }
+}
